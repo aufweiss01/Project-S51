@@ -8,7 +8,7 @@ title: Maintain spark plug
 The spark plug should be maintained at least every 3000 km. Checking and maintaining the spark plug is also the starting point for troubleshooting in many cases of combustion-related issues, e.g. if the motor does not start, although fuel is supplied and ignition is switched on. 
 
 ## Safety
-==**NOTICE**==
+**NOTICE**
 
 **Excessive mechanical force**
 
@@ -39,7 +39,7 @@ The spark plug is partly composed of fragile materials and parts. Applying exces
 	1. Carefully bend the ground electrode to increase or decrease the electrode spacing to 0.4 mm. Use appropriate tools, e.g. pliers or a flat-bladed screwdriver. ![Adjust electrode spacing](P:\Projekte\Simson S51\Ressourcen\Bilder\Zuendkerze warten_20.png)
 	1. Repeat the entire step.
 1. Check the spark plug for indicators of combustion quality.
-	1. **==NOTICE== Deficient illumination might confound your judgement.**  
+	1. **NOTICE Deficient illumination might confound your judgement.**  
 	Check the plug part below the screw thread for colored remnants. ![Check spark plug for color](P:\Projekte\Simson S51\Ressourcen\Bilder\Zuendkerze warten_25.png)
 	1. Continue depending on your findings:
 		- The plug is fawn brown: Finish the procedure.

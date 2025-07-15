@@ -43,4 +43,4 @@ The spark plug is partly composed of fragile materials and parts. Applying exces
 	Check the plug part below the screw thread for colored remnants. ![Check spark plug for color](Ressourcen\Bilder\Zuendkerze warten_25.png)
 	1. Continue depending on your findings:
 		- The plug is fawn brown: Finish the procedure.
-		- The plug is whitish or very dark: Continue with [Troubleshooting spark plug]().
+		- The plug is whitish or very dark: Continue with [Troubleshooting spark plug](Troubleshooting spark plug.md).

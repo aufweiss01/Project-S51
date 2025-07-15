@@ -1,9 +1,11 @@
 # Remove spark plug
 
 ## Tools
+
 |Count|Name|Size|
 |---|---|---|
 |1|Spark plug wrench|n.a.|
+
 
 ## Prerequisites
 [] The ignition is switched off.

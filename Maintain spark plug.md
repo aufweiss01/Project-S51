@@ -30,17 +30,17 @@ The spark plug is partly composed of fragile materials and parts. Applying exces
 [] The spark plug is removed from the cylinder head.
 
 ## Procedure
-1. Remove crude pollution, e.g. sooty particles, oil remnants, etc., from the plug part below the screw thread. Use a wire brush or a flat-bladed screw driver. ![Remove crude pollution from spark plug](P:\Projekte\Simson S51\Ressourcen\Bilder\Zuendkerze warten_10.png)
+1. Remove crude pollution, e.g. sooty particles, oil remnants, etc., from the plug part below the screw thread. Use a wire brush or a flat-bladed screw driver. ![Remove crude pollution from spark plug](Ressourcen\Bilder\Zuendkerze warten_10.png)
 1. Adjust the electrode spacing.
-	1. Check the electrode spacing. Use a feeler gauge, 0.4 mm.![Check electrode spacing](P:\Projekte\Simson S51\Ressourcen\Bilder\Zuendkerze warten_15.png)
+	1. Check the electrode spacing. Use a feeler gauge, 0.4 mm.![Check electrode spacing](Ressourcen\Bilder\Zuendkerze warten_15.png)
 	1. Continue depending on your findings:
 		- The spacing equals 0.4 mm: Continue with the next step.
 		- The spacing does not equal 0.4 mm: Continue with the next substep.
-	1. Carefully bend the ground electrode to increase or decrease the electrode spacing to 0.4 mm. Use appropriate tools, e.g. pliers or a flat-bladed screwdriver. ![Adjust electrode spacing](P:\Projekte\Simson S51\Ressourcen\Bilder\Zuendkerze warten_20.png)
+	1. Carefully bend the ground electrode to increase or decrease the electrode spacing to 0.4 mm. Use appropriate tools, e.g. pliers or a flat-bladed screwdriver. ![Adjust electrode spacing](Ressourcen\Bilder\Zuendkerze warten_20.png)
 	1. Repeat the entire step.
 1. Check the spark plug for indicators of combustion quality.
 	1. **NOTICE Deficient illumination might confound your judgement.**  
-	Check the plug part below the screw thread for colored remnants. ![Check spark plug for color](P:\Projekte\Simson S51\Ressourcen\Bilder\Zuendkerze warten_25.png)
+	Check the plug part below the screw thread for colored remnants. ![Check spark plug for color](Ressourcen\Bilder\Zuendkerze warten_25.png)
 	1. Continue depending on your findings:
 		- The plug is fawn brown: Finish the procedure.
 		- The plug is whitish or very dark: Continue with [Troubleshooting spark plug]().

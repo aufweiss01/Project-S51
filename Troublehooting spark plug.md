@@ -1,3 +1,7 @@
+---
+title: Troubleshooting spark plug
+---
+
 # Troubleshooting spark plug
 
 |State|Cause|Remedy|

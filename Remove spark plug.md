@@ -2,7 +2,7 @@
 
 ## Tools
 |Count|Name|Size|
-|-----|----|----|
+|---|---|---|
 |1|Spark plug wrench|n.a.|
 
 ## Prerequisites

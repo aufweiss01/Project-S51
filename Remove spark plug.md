@@ -1,3 +1,7 @@
+---
+title: Remove spark plug
+---
+
 # Remove spark plug
 
 ## Tools

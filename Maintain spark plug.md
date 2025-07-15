@@ -1,3 +1,7 @@
+---
+title: Maintain spark plug
+---
+
 # Maintain spark plug
 
 ## Context
@@ -13,6 +17,7 @@ The spark plug is partly composed of fragile materials and parts. Applying exces
 - If required, use a soft cloth to protect the ceramics from being damaged, e.g. when held with pliers. 
 
 ## Tools
+
 |Count|Name|Size|
 |---|---|---|
 |1|Feeler gauge|0.4 mm|
